@@ -124,10 +124,3 @@ Your default web browser will automatically open all the links.
 * **Nothing happens when running `.bat` files** → Try running them from Command Prompt instead of double-clicking.
 
 ---
-
-👉 That’s it! You’ve successfully generated and opened your ORCID/Scopus profile links 🎉
-
-```
-
-Do you also want me to add a **screenshot example** (folder structure or terminal output) so first-time users can visually confirm they’re doing it right?
-```
