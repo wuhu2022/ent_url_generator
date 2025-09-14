@@ -86,7 +86,7 @@ cd ent_url_generator
 
 1. Download your **OTOMAP Data Collection Spreadsheet**.
 2. Open it and **delete all extra sheets** so that only **your data sheet** remains.
-3. Save this file into the `otomap_url` folder you created earlier.
+3. Save this file into the `ent_url_generator` folder you created earlier.
 
 ---
 
